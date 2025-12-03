@@ -1,0 +1,7 @@
+{
+  "name": "Restore Masters Demo",
+  "description": "A demo website for a restoration company featuring a Gemini-powered text chatbot and a Vapi voice assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
